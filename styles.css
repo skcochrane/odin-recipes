@@ -1,5 +1,6 @@
 body {
   font-family: verdana, sans-serif;
+  color: #291b10;
 }
 
 .header {
@@ -29,7 +30,6 @@ body {
 }
 
 .recipe-link {
-  color: #291b10;
   font-weight: 700;
   text-decoration: none;
 }
@@ -41,4 +41,46 @@ body {
 #chef-logo {
   height: 400px;
   padding: 10px 50px;
+}
+
+.intro {
+  display: flex;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.intro-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin-left: 30px;
+  margin-right: 50px;
+}
+
+.intro img {
+  width: 250px;
+}
+
+h2 {
+  margin: 0;
+}
+
+li {
+  margin: 10px 30px;
+}
+
+h3,
+h4 {
+  margin: 5px 20px;
+}
+
+.home {
+  background-color: #004d67;
+  border-radius: 20px;
+  color: #eea292;
+  font-weight: 700;
+  padding: 15px;
+  margin: 30px;
 }
