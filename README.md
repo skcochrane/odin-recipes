@@ -1,6 +1,7 @@
 # odin-recipes
 
 Project: Recipes
+
 The Odin Project
 
-The website will consist of a main index page which will have links to a few recipes.
+Objective: Create a main index page with links to three additional recipe pages using HTML and CSS.
